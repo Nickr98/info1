@@ -12,10 +12,8 @@ A[d+1]="\0";
 Stampa A;
 }f (d>=1){
 A[d+1]="\0";
-Stampa A;
+fprintf(fp; "%s /n", a);
 }d=0;
 }
-
-
 
 }
